@@ -1,1 +1,1 @@
-# NewsFalsh
+![Project humbnail](./thumbnail.jpg)
